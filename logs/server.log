@@ -1,0 +1,101 @@
+2025-04-10T10:18:13.127Z [info]: Server running at http://localhost:3000
+2025-04-10T10:18:56.857Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\7aa4c20b7e20f3a80844cb714638f804
+2025-04-10T10:18:56.861Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:30:40.657Z [info]: Server running at http://localhost:3000
+2025-04-10T10:30:55.171Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\7ebeb60bd6c7d12eaa7f290fbcc87696
+2025-04-10T10:30:55.175Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:30:55.260Z [error]: Encoding failed:
+2025-04-10T10:34:07.943Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\04024a9e49b00ae9eacdf501646eac1b
+2025-04-10T10:34:07.945Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:34:08.036Z [error]: Encoding failed: Unexpected end of JSON input
+2025-04-10T10:35:40.082Z [info]: Server running at http://localhost:3000
+2025-04-10T10:37:09.879Z [info]: Server running at http://localhost:3000
+2025-04-10T10:37:16.969Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\20a39a9d64ac6ca6ff2de430a7fe891e
+2025-04-10T10:37:16.972Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:37:17.073Z [error]: Encoding failed: Unexpected end of JSON input
+2025-04-10T10:38:44.222Z [info]: Server running at http://localhost:3000
+2025-04-10T10:38:51.440Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\1d9388da921f3f94584b7d08cab79229
+2025-04-10T10:38:51.443Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:38:51.538Z [info]: Python stdout:
+2025-04-10T10:38:51.538Z [info]: Python stderr:
+2025-04-10T10:38:51.541Z [error]: Encoding failed: Unexpected end of JSON input
+2025-04-10T10:39:55.782Z [info]: Server running at http://localhost:3000
+2025-04-10T10:40:06.561Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\95dd50eae2a002807d68c2ba0c7a8245
+2025-04-10T10:40:06.565Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:40:06.686Z [info]: Python stdout:
+2025-04-10T10:40:06.687Z [info]: Python stderr:
+2025-04-10T10:40:06.688Z [error]: Encoding failed:
+2025-04-10T10:47:40.500Z [info]: Server running at http://localhost:3000
+2025-04-10T10:47:47.267Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\f8ecdde55266e99ec79964f610fa09ea
+2025-04-10T10:47:47.270Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:47:50.513Z [info]: Python stdout:
+2025-04-10T10:47:50.515Z [info]: Python stderr:
+2025-04-10T10:47:50.516Z [error]: Encoding failed:
+2025-04-10T10:49:47.734Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\3f1cdce82e5c7a356711427837e65013
+2025-04-10T10:49:47.737Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:49:49.854Z [info]: Python stdout:
+2025-04-10T10:49:49.855Z [info]: Python stderr:
+2025-04-10T10:50:16.001Z [info]: Server running at http://localhost:3000
+2025-04-10T10:53:36.083Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\fa10662e1ab4594a1203258a24889f02
+2025-04-10T10:53:36.086Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:58:26.424Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\2c7974ad43145c0348b0d85a2cd9fc39
+2025-04-10T10:58:26.427Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:58:41.654Z [info]: Server running at http://localhost:3000
+2025-04-10T10:58:49.997Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\138c96301b145eb2e1d02bbdbc5e44dc
+2025-04-10T10:58:50.000Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T10:58:51.834Z [error]: Encoding failed: codes is not defined
+2025-04-10T10:59:55.214Z [info]: Server running at http://localhost:3000
+2025-04-10T11:00:01.917Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\6e1c7d73a3f7af46420702353970950e
+2025-04-10T11:00:01.922Z [info]: Executing script: python/huffman.py with args: encode,day la commmmmmm
+2025-04-10T11:02:17.431Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\44d4bd1818e55647441bfbf391cea7c1
+2025-04-10T11:02:17.432Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T11:09:59.288Z [info]: Server running at http://localhost:3000
+2025-04-10T11:10:08.961Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\609eb675b5c40a8ca3f7f6ef7654fd29
+2025-04-10T11:10:08.965Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T13:52:27.977Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\aea1bf048ba1347eb4f779cf7eb78cb9
+2025-04-10T13:52:27.981Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T13:53:04.235Z [info]: Executing script: python/huffman.py with args: decode,0000000000000000000011111111111111111111111111111111111111101010101010101010101010
+2025-04-10T13:53:06.063Z [error]: Decoding failed:
+2025-04-10T14:15:39.489Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\fcb0aca50e7596a7b817e0c1055dc970
+2025-04-10T14:15:39.492Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:17:29.796Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\d12441ea08aa9fa5955db0d2aaeb8113
+2025-04-10T14:17:29.799Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:20:48.667Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\9294ef17775897fd3c1001841a73aa78
+2025-04-10T14:20:48.670Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:21:28.300Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\f35aaf1f02940e6938d14ff9350362b5
+2025-04-10T14:21:28.303Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:22:52.127Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\e1a92a121eb2528ac7e3144a7bb6a134
+2025-04-10T14:22:52.129Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:25:09.201Z [info]: Server running at http://localhost:3000
+2025-04-10T14:25:23.505Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\4f20625ea529dac0061a8586791080a2
+2025-04-10T14:25:23.510Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:27:42.839Z [info]: Server running at http://localhost:3000
+2025-04-10T14:27:54.537Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\ace778a48cb6a199b81b92e290891aa1
+2025-04-10T14:27:54.542Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:28:45.514Z [info]: Server running at http://localhost:3000
+2025-04-10T14:28:54.751Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\9b3135c43b4c439b26053c82c4da8f28
+2025-04-10T14:28:54.755Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:29:58.167Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\6a8b8310080143f2c5a3f0e631f502c0
+2025-04-10T14:29:58.169Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:32:22.212Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\52fbf4d9d124f688f5d36d14c3f4d31d
+2025-04-10T14:32:22.218Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:34:44.512Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\490389e17ae16c54c9489766382959cd
+2025-04-10T14:34:44.516Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:42:57.341Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\74632d1ae2c44804c9dc8e3195124331
+2025-04-10T14:42:57.344Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:45:35.819Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\c820f1bd1c7d7dee3f05599c4dbfc245
+2025-04-10T14:45:35.821Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T14:54:31.226Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\222afc1626ed7ae53a8e8056513636a2
+2025-04-10T14:54:31.229Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T15:11:00.529Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\c2b79a5856d1b1bf77726ace13ca6f13
+2025-04-10T15:11:00.531Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T15:27:05.696Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\a4eb91ad78f848b9acfc16e10ad9d802
+2025-04-10T15:27:05.698Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T15:27:19.593Z [info]: Server running at http://localhost:3000
+2025-04-10T15:27:27.914Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\c0f3c0123a2fa57a6e879083ea4cd378
+2025-04-10T15:27:27.917Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T15:40:27.269Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\484435226206db9cd7e0a6c2103820be
+2025-04-10T15:40:27.271Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T15:43:45.637Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\941f79063433c49db1ea759f8697c5d0
+2025-04-10T15:43:45.640Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
+2025-04-10T15:54:16.298Z [info]: Server running at http://localhost:3000
