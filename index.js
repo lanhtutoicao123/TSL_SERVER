@@ -30,7 +30,7 @@ const logger = winston.createLogger({
 
 // CORS
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: "https://tsl-client.vercel.app",
   methods: ["GET", "POST"],
   allowedHeaders: ["Content-Type", "Authorization"],
 }));
