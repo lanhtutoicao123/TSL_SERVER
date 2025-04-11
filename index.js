@@ -30,6 +30,7 @@ const logger = winston.createLogger({
 
 // CORS
 app.use(cors({
+  // This is the test for frontend : API REQUEST https://tsl-client.vercel.app
   origin: "https://tsl-client.vercel.app",
   methods: ["GET", "POST"],
   allowedHeaders: ["Content-Type", "Authorization"],
@@ -83,7 +84,7 @@ app.post("/api/files/upload", upload.single("file"), async (req, res) => {
     const content = await fs.promises.readFile(filePath, "utf8");
 
     const result = await runPythonScript("python/huffman.py", ["encode", content]);
-    const { encoded_data, crc , codes, tree_image_base64 } = JSON.parse(result);
+    const { encoded_data, crc , codes, tree_image_base64, frequencies, probabilities, build_steps } = JSON.parse(result);
 
     const outputName = `${Date.now()}_encoded.huf`;
     const outputPath = path.join(processedDir, outputName);
@@ -102,17 +103,24 @@ app.post("/api/files/upload", upload.single("file"), async (req, res) => {
       encoded_data,
       crc,
       codes,
-      tree_image_base64
+      tree_image_base64,
+      frequencies,
+      probabilities,
+      build_steps
     });
-    
+
     res.status(200).json({
       message: "File encoded successfully",
       encodedData: encoded_data,
       crc: crc,
       downloadUrl: `/api/files/download/${outputName}`,
       filename: outputName,
-      codes: codes, // thêm dòng này
-      tree_image_base64: tree_image_base64, // và dòng này nữa
+      codes: codes, 
+      tree_image_base64: tree_image_base64, 
+      frequencies: frequencies,
+      probabilities: probabilities,
+      buildSteps: build_steps, // ✅ Sửa đúng tên key theo camelCase
+      build_steps: build_steps // (Optional) vẫn giữ thêm nếu frontend fallback
     });
   } catch (err) {
     logger.error("Encoding failed:", err);

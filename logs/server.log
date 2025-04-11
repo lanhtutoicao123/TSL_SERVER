@@ -99,3 +99,117 @@
 2025-04-10T15:43:45.637Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\TSL_project\server\uploads\941f79063433c49db1ea759f8697c5d0
 2025-04-10T15:43:45.640Z [info]: Executing script: python/huffman.py with args: encode,aaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbcccccccccccc
 2025-04-10T15:54:16.298Z [info]: Server running at http://localhost:3000
+2025-04-11T08:07:56.951Z [info]: Server running at http://localhost:3000
+2025-04-11T08:09:28.387Z [info]: Server running at http://localhost:3000
+2025-04-11T08:13:34.272Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\89208ac1816652b5f6a010bea71fbc1f
+2025-04-11T08:13:34.276Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:27:52.122Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\5fae582fe8cd5efaaf5a1829ea07a335
+2025-04-11T08:27:52.123Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:34:45.487Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\6f4c13c58d94687244560a7f9b221907
+2025-04-11T08:34:45.491Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:36:51.243Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\cc22af4201289917beec3f6a9c8e0bc3
+2025-04-11T08:36:51.245Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:37:46.361Z [error]: Decoding failed: Invalid .huf file format
+2025-04-11T08:39:04.775Z [error]: Decoding failed: Invalid .huf file format
+2025-04-11T08:39:09.185Z [error]: Decoding failed: Invalid .huf file format
+2025-04-11T08:47:34.466Z [error]: Decoding failed: Invalid .huf file format
+2025-04-11T08:48:13.097Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\2f073fe8a7ab715cf6f4b94e6671ad0d
+2025-04-11T08:48:13.099Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:48:13.202Z [error]: Encoding failed:
+2025-04-11T08:48:31.089Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\8951265ce6bd2c0a4dd9479d4074f347
+2025-04-11T08:48:31.092Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:48:31.200Z [error]: Encoding failed:
+2025-04-11T08:48:44.546Z [info]: Server running at http://localhost:3000
+2025-04-11T08:49:14.109Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\d4925f68aed8a40c91889c496c16afce
+2025-04-11T08:49:14.113Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T08:49:14.162Z [error]: Encoding failed:
+2025-04-11T08:57:40.513Z [info]: Server running at http://localhost:3000
+2025-04-11T08:57:51.833Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\1ca2f758798000beeb4f987db43cdfaa
+2025-04-11T08:57:51.837Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T09:36:18.182Z [info]: Server running at http://localhost:3000
+2025-04-11T09:36:39.316Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\6f9833530962e5b74e1bdb05feefcafd
+2025-04-11T09:36:39.320Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T09:36:41.581Z [error]: Encoding failed: build_steps is not defined
+2025-04-11T09:37:26.464Z [info]: Server running at http://localhost:3000
+2025-04-11T09:37:33.634Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\1ed41ec91290bfa64256345e6705ddae
+2025-04-11T09:37:33.637Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T09:41:43.683Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\e2593d62721e0d8f52959918f48d2c94
+2025-04-11T09:41:43.686Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T09:58:36.483Z [info]: Server running at http://localhost:3000
+2025-04-11T09:58:46.433Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\6dd5e968be9b58f8c6e8d6079a37cf8a
+2025-04-11T09:58:46.438Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T10:29:10.935Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\9e8012be18da27681ab72909601493aa
+2025-04-11T10:29:10.937Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T10:33:39.692Z [info]: Server running at http://localhost:3000
+2025-04-11T10:33:44.723Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\841c44f440c3659ca1ce61389e070edc
+2025-04-11T10:33:44.726Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T10:43:14.365Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\ba0e27558ea153b8b5890afa92c09b6d
+2025-04-11T10:43:14.367Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T10:53:56.005Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\01de6d85fa1db7d3af88ee3a10fc0a54
+2025-04-11T10:53:56.010Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T10:54:26.142Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\0063e44570aca7470cfb9b5fdaf7edd3
+2025-04-11T10:54:26.143Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T11:30:55.965Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\5761e06ba327b6438ee7008661ab8d6e
+2025-04-11T11:30:55.967Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T12:24:05.266Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\ba0b6194f5eef1b890de8bfeb9f82392
+2025-04-11T12:24:05.279Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T12:25:50.053Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\1da912060e19a7ab8ffd984c0717b771
+2025-04-11T12:25:50.057Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T14:55:57.776Z [info]: Server running at http://localhost:3000
+2025-04-11T14:56:16.955Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\567e8c330b5cb6db3aa02234c52e696a
+2025-04-11T14:56:16.960Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:20:43.877Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\6970fd5812ef11e19940cfec907f0232
+2025-04-11T15:20:43.879Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:20:43.961Z [error]: Encoding failed:
+2025-04-11T15:21:21.898Z [info]: Server running at http://localhost:3000
+2025-04-11T15:21:28.306Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\cf70732a381ff332530233daef8b0fd0
+2025-04-11T15:21:28.308Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:25:58.371Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\9c081f03677c0480c21b4804824d8875
+2025-04-11T15:25:58.375Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:32:37.957Z [info]: Server running at http://localhost:3000
+2025-04-11T15:33:13.396Z [info]: Server running at http://localhost:3000
+2025-04-11T15:33:45.415Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\a20d52cdfc410bc44c240a967256a913
+2025-04-11T15:33:45.419Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:35:09.848Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\96596fffa58dcb192d318c683a44d523
+2025-04-11T15:35:09.851Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:35:13.493Z [error]: Encoding failed:
+2025-04-11T15:36:59.685Z [info]: Server running at http://localhost:3000
+2025-04-11T15:37:06.600Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\6c9e937a426d822a3e5446da2adcfef0
+2025-04-11T15:37:06.605Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:46:07.536Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\9e883044bb62ecd09bc21794efd7b3d6
+2025-04-11T15:46:07.537Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T15:49:46.757Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\3870cafb6bb4cd64a69f307923308320
+2025-04-11T15:49:46.759Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T16:12:13.238Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\493d04b077fc414adf9b92b20de23f65
+2025-04-11T16:12:13.243Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T16:41:13.562Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\038eba6364cfeb6e9bd84822cbef41dc
+2025-04-11T16:41:13.567Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T16:50:22.081Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\8953dbd00f67d8da70c7bb1ec149602d
+2025-04-11T16:50:22.083Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T16:53:10.891Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\bdd9e30410372b84a4f6db778abf16c9
+2025-04-11T16:53:10.893Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T16:56:36.960Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\487728116194e1b06d79fdbaf8ab3210
+2025-04-11T16:56:36.963Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T16:58:26.213Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\0f1dff4705e1f49dcc4198780e32bb5a
+2025-04-11T16:58:26.215Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:04:10.010Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\cd77eed9e3cfe08d2e703e6e22bf857c
+2025-04-11T17:04:10.011Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:07:46.752Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\deceea5c6514cce23c13654d740a91e0
+2025-04-11T17:07:46.756Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:10:06.713Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\1e962d7ec87b25ec7fef16e365193ff4
+2025-04-11T17:10:06.715Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:13:59.236Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\537927576c3fb5ce1f7ac776ab12bec1
+2025-04-11T17:13:59.239Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:14:59.884Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\a2eacabd2e1353ee578e1231d6136e1a
+2025-04-11T17:14:59.886Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:20:58.249Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\db078ee8d8ec66f6ba74ecf0ec724177
+2025-04-11T17:20:58.251Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:23:02.827Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\dc0e94f1ff972a8cd793a836acea21cb
+2025-04-11T17:23:02.829Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:42:13.041Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\eadfe4a611e557436c18d72e1e909a54
+2025-04-11T17:42:13.042Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:51:55.143Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\12824f8bcdc38e0797caa45b246cac7e
+2025-04-11T17:51:55.146Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
+2025-04-11T17:52:34.557Z [info]: Server running at http://localhost:3000
+2025-04-11T17:52:47.586Z [info]: Reading file: C:\Users\ADMIN\Desktop\DL cần làm\Qualangu\TSL_SERVER\uploads\7431a8f6efad32fa302d602bede9900a
+2025-04-11T17:52:47.591Z [info]: Executing script: python/huffman.py with args: encode,day la phan mem chui son ngu
